@@ -1,0 +1,16 @@
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.exe
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.deps.json
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.runtimeconfig.json
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.runtimeconfig.dev.json
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.dll
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\ref\FindDuplicateElement.dll
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\bin\Debug\net5.0\FindDuplicateElement.pdb
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.csprojAssemblyReference.cache
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.AssemblyInfoInputs.cache
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.AssemblyInfo.cs
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.csproj.CoreCompileInputs.cache
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.dll
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\ref\FindDuplicateElement.dll
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.pdb
+C:\Users\filip\Documents\GitHub\FindDuplicateElement\obj\Debug\net5.0\FindDuplicateElement.genruntimeconfig.cache
